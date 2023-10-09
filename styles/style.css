@@ -236,7 +236,7 @@ h1 {
     width: 1370px;
     top: -47px;
     left: -18px;
-    z-index: -1;
+    z-index: 1;
 }
 
 .title__pictures__letter-g {
